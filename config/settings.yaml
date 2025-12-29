@@ -1,0 +1,21 @@
+assets:
+  forex:
+    - EUR/USD
+    - GBP/USD
+  crypto:
+    - BTC/USDT
+    - ETH/USDT
+  commodities:
+    - XAUUSD
+    - WTI
+
+timeframes:
+  - 1m
+  - 5m
+
+min_confidence: 75
+
+telegram:
+  bot_token: "PASTE_BOT_TOKEN"
+  channel_id: "@your_channel"
+  group_id: "-100xxxxxxxxxx"
