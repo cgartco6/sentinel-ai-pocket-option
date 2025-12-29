@@ -1,0 +1,8 @@
+numpy==1.23.5
+pandas
+scikit-learn
+joblib
+ccxt
+python-telegram-bot==20.0
+gTTS
+matplotlib
