@@ -1,0 +1,2 @@
+timestamp,close,ema_fast,ema_mid,ema_slow,rsi,volume,volume_ma,atr,result
+2025-01-01T10:00:00,2035,2033,2032,2031,59,900,700,4.2,1
