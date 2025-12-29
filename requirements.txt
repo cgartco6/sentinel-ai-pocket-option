@@ -1,0 +1,9 @@
+ccxt
+pandas
+numpy
+ta
+pyyaml
+scikit-learn
+joblib
+flask
+python-telegram-bot==20.7
